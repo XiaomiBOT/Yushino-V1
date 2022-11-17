@@ -245,8 +245,8 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./media/menuh1.jpg') //Gambarnye
 					},
-					"title": "⫰⫯ 𝐇𝐲𝐮𝐮𝐫𝐚𝐁𝐨𝐭𝐳 ⫯⫰ ",
-					"description": "𝑪𝒆𝒌 𝑳𝒊𝒔𝒕 𝑯𝒚𝒖𝒖𝒓𝒂 𝑫𝒊 𝑩𝒂𝒘𝒂𝒉", 
+					"title": "⫰⫯ 𝐗𝐢𝐚𝐨𝐦𝐢𝐁𝐎𝐓 ⫯⫰ ",
+					"description": "𝑪𝒆𝒌 𝑳𝒊𝒔𝒕 𝐗𝐢𝐚𝐨𝐦𝐢 𝑫𝒊 𝑩𝒂𝒘𝒂𝒉", 
 					"retailerId": "Ghost",
 					"productImageCount": 1
 				},
