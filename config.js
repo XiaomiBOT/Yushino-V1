@@ -64,14 +64,14 @@ global.lynk = 'https://youtube.com/@ranggabotzofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.ig = 'https://instagram/hanz_ofc_03'
-global.yt = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.yt = 'https://youtube.com/@ranggabotzofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.dana = '0813 6128 1833'
-global.gopay = '0813 6128 1833'
-global.pulsa = '0813 6128 1833'
-global.saweria =  'https://saweria.co/hyuura'
+global.dana = '0857 7915 0501'
+global.gopay = '0857 7915 0501'
+global.pulsa = '0857 7019 0255'
+global.saweria =  'https://saweria.co/XiaomiBOT'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -169,9 +169,9 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/hanz_ofc_03"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '0857 7019 0255'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
